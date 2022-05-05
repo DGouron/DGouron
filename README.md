@@ -8,6 +8,7 @@ Hi 👋 My name is Damien Gouron
 🤝  I'm open to collaborating on an application that improves everyday life* 
 ⚡  I am a volunteer firefighter and an international volunteer in virtual operational support
 
+
 <a href="https://www.github.com/DGouron" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DGouron?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 

@@ -9,7 +9,7 @@ src="https://img.shields.io/github/followers/DGouron?logo=github&style=for-the-b
 
 ✉️  You can contact me at [damien.gouron@gmail.com](mailto:damien.gouron@gmail.com)* 
 
-🚀  I'm currently working on [Learn Suap](http://learnsuap.netlify.app/)*  
+🚀  I'm currently working on [Amicale des sapeurs-pompiers de Châtellerault](https://amicalespchatellerault.fr/)*  
 
 🤝  I'm open to collaborating on an application that improves everyday life or gamification* 
 
@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/DGouron?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DGouron"><img src="https://github-readme-stats.vercel.app/api?username=DGouron&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DGouron's GitHub stats" /></a>
+<a href="http://www.github.com/DGouron">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)</a>
 
 <a href="http://www.github.com/DGouron"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DGouron&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 

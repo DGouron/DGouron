@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/DGouron?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DGouron">![DGouron Github Stats](https://github-readme-stats.vercel.app/api?dgouron=anuraghazra&count_private=true)</a>
+<a href="http://www.github.com/DGouron">![DGouron Github Stats](https://github-readme-stats.vercel.app/api?DGouron=anuraghazra&count_private=true)</a>
 
 <a href="http://www.github.com/DGouron"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DGouron&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 

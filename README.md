@@ -1,5 +1,5 @@
 Hi 👋 My name is Damien Gouron
-==============================Web Developer-------------* 
+==============================Fullstack Developer-------------* 
 🌍  I'm based in Poitiers, France*
 
 <a href="https://www.github.com/DGouron" target="_blank" rel="noreferrer"><img
@@ -15,7 +15,6 @@ src="https://img.shields.io/github/followers/DGouron?logo=github&style=for-the-b
 
 ⚡  I am a volunteer firefighter and an international volunteer in virtual operational support
 
-<a href="https://app.daily.dev/damiengouron"><img src="https://api.daily.dev/devcards/bb20833a48ef496893b9745f8ab8e590.png?r=e0t" width="400" alt="DGouron's Dev Card"/></a>
 
 <a href="https://www.github.com/DGouron" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DGouron?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

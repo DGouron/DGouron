@@ -1,15 +1,16 @@
 Hi 👋 My name is Damien Gouron
 ==============================Fullstack Developer-------------* 
-🌍  I'm based in Poitiers, France*
+🌍  I'm based in Poitiers, France
 
 <a href="https://www.github.com/DGouron" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DGouron?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-🖥️  See my portfolio at [https://dgouron.fr/](http://dgouron.fr/)* 
+🖥️  See my portfolio at [https://dgouron.fr/](http://dgouron.fr/)
 
-✉️  You can contact me at [damien.gouron@gmail.com](mailto:damien.gouron@gmail.com)* 
+✉️  You can contact me at [damien.gouron@gmail.com](mailto:damien.gouron@gmail.com)
 
-🚀  I'm currently working on [Amicale des sapeurs-pompiers de Châtellerault](https://amicalespchatellerault.fr/)*  
+🚀  I'm currently working on [Amicale des sapeurs-pompiers de Châtellerault](https://amicalespchatellerault.fr/)  
+    and a repository with [algorithm and design pattern exemples here ](https://github.com/DGouron/Algo-Pattern)
 
 🤝  I'm open to collaborating on an application that improves everyday life or gamification* 
 

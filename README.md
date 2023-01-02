@@ -2,9 +2,6 @@ Hi 👋 My name is Damien Gouron
 ==============================Fullstack Developer-------------* 
 🌍  I'm based in Poitiers, France
 
-<a href="https://www.github.com/DGouron" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DGouron?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 🖥️  See my portfolio at [https://dgouron.fr/](http://dgouron.fr/)
 
 ✉️  You can contact me at [damien.gouron@gmail.com](mailto:damien.gouron@gmail.com)

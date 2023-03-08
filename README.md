@@ -1,45 +1,51 @@
-Hi 👋 My name is Damien Gouron
-==============================Fullstack Developer-------------* 
-🌍  I'm based in Poitiers, France
+🚀  I'm currently working on 
+    and a repository with 
 
-🖥️  See my portfolio at [https://dgouron.fr/](http://dgouron.fr/)
+<h2 align="left">Hi 👋! My name is Damien and I'm a Front-End Developer, from France</h2>
 
-✉️  You can contact me at [damien.gouron@gmail.com](mailto:damien.gouron@gmail.com)
+###
 
-🚀  I'm currently working on [Amicale des sapeurs-pompiers de Châtellerault](https://amicalespchatellerault.fr/)  
-    and a repository with [algorithm and design pattern exemples here ](https://github.com/DGouron/Algo-Pattern)
+<p align="left">🚀  I'm currently working on [Amicale des sapeurs-pompiers de Châtellerault](https://amicalespchatellerault.fr/)  <br>and a repository with [algorithm and design pattern exemples here ](https://github.com/DGouron/Algo-Pattern)<br><br>🤝  I'm open to collaborating on an application that improves everyday life or gamification<br><br>⚡  I am a volunteer firefighter and an international volunteer in virtual operational support</p>
 
-🤝  I'm open to collaborating on an application that improves everyday life or gamification* 
+<p>🖥️  See my portfolio at [https://dgouron.fr/](http://dgouron.fr/)</p>
+<p>✉️  You can contact me at [damien.gouron@gmail.com](mailto:damien.gouron@gmail.com)</p>
+###
 
-⚡  I am a volunteer firefighter and an international volunteer in virtual operational support
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Current Github Stats&username=DG" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Languages&username=DG" height="150" alt="languages graph"  />
+</div>
 
+###
 
-<a href="https://www.github.com/DGouron" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DGouron?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="42" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="42" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" width="42" alt="threejs logo"  />
+</div>
 
-### Skills
+###
 
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a></p>
+<div align="center">
+  <a href="https://discord.com/users/Arkas#9706" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/damien-gouron" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### Socials
+###
 
-<p align="left"> <a href="https://discord.com/users/Arkas#9706" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/DGouron" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/damien-gouron" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<br clear="both">
 
-### Badges
+<img src="https://raw.githubusercontent.com/DG/DG/blob/output/snake.svg" alt="Snake animation" />
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/DGouron">![DGouron Github Stats](https://github-readme-stats.vercel.app/api?username=DGouron&count_private=true)</a>
-
-<a href="http://www.github.com/DGouron"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DGouron&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DGouron&theme=onedark)](https://github.com/DGouron)
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-    <a href="https://github.com/DGouron/Algo-Pattern" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DGouron&repo=Algo-Pattern&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-    <a href="https://github.com/DGouron/learn-suap" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DGouron&repo=learn-suap&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-    <a href="https://github.com/DGouron/Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DGouron&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-    
-</div><br /><br /><br /><br /><br /><br /><br />
+###

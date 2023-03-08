@@ -1,19 +1,16 @@
-🚀  I'm currently working on 
-    and a repository with 
-
 <h2 align="left">Hi 👋! My name is Damien and I'm a Front-End Developer, from France</h2>
 
 ###
 
-<p align="left">🚀  I'm currently working on [Amicale des sapeurs-pompiers de Châtellerault](https://amicalespchatellerault.fr/)  <br>and a repository with [algorithm and design pattern exemples here ](https://github.com/DGouron/Algo-Pattern)<br><br>🤝  I'm open to collaborating on an application that improves everyday life or gamification<br><br>⚡  I am a volunteer firefighter and an international volunteer in virtual operational support</p>
+<p align="left">🚀  I'm currently working on Amicale des sapeurs-pompiers de Châtellerault<br>and a repository with algorithm and design pattern exemples here<br><br>🤝  I'm open to collaborating on an application that improves everyday life or gamification<br><br>⚡  I am a volunteer firefighter and an international volunteer in virtual operational support</p>
 
-<p>🖥️  See my portfolio at [https://dgouron.fr/](http://dgouron.fr/)</p>
-<p>✉️  You can contact me at [damien.gouron@gmail.com](mailto:damien.gouron@gmail.com)</p>
+<h3>🖥️  See my portfolio at <a href="http://dgouron.fr/">dgouron.fr</a></h3>
+
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Current Github Stats&username=DG" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Languages&username=DG" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Current Github Stats&username=DGouron" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Languages&username=DGouron" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -46,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DG/DG/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DGouron/DGouron/blob/output/snake.svg" alt="Snake animation" />
 
 ###

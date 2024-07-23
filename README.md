@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀  I'm currently working on Amicale des sapeurs-pompiers de Châtellerault<br>and a repository with algorithm and design pattern exemples here<br><br>🤝  I'm open to collaborating on an application that improves everyday life or gamification<br><br>⚡  I am a volunteer firefighter and an international volunteer in virtual operational support</p>
+<p align="left">🚀  I'm currently working on Motiv' Advise, a SaaS who provide a personal journal boosted by AI <br>and a repository with algorithm and design pattern exemples here<br><br>🤝  I'm open to collaborating on you project.
 
 <h3>🖥️  See my portfolio at <a href="http://dgouron.fr/">dgouron.fr</a></h3>
 

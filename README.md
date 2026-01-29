@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Damien <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <strong>Fullstack Developer</strong> who builds tools developers actually need.<br>
+  <strong>Fullstack Developer & AI-Augmented Development Specialist</strong><br>
+  Building the future of software development with custom AI agents and automated workflows.<br>
   Based in France • Open to collaboration
 </p>
 
@@ -23,9 +24,15 @@
 
 ```typescript
 const damien = {
-  role: "Fullstack Developer & Technical Mentor",
+  role: "Fullstack Developer & AI-Augmented Dev Specialist",
   company: "Mentor Goal",
   location: "Poitiers, France",
+
+  focus: [
+    "AI-driven TDD & Clean Architecture workflows",
+    "Custom AI agents & skills for development automation",
+    "Optimizing team productivity with cutting-edge AI tools"
+  ],
 
   currentlyBuilding: [
     "Prepafacture.fr - French e-invoicing compliance made simple",
@@ -40,6 +47,23 @@ const damien = {
   beyondCode: "Volunteer Firefighter (SDIS 86) since 2021"
 };
 ```
+
+---
+
+## AI-Augmented Development
+
+> *"The best developers don't just write code — they design systems where AI amplifies their expertise."*
+
+At **Mentor Goal**, I'm pioneering AI-driven development workflows:
+
+| Area | What I Do |
+|------|-----------|
+| **Automated TDD** | AI agents that write tests following Clean Architecture principles |
+| **Custom AI Skills** | Building specialized prompts and skills for domain-specific tasks |
+| **Agent Orchestration** | Designing multi-agent systems for complex development workflows |
+| **Team Workflow Optimization** | Implementing AI tools that 10x team productivity |
+
+**Tools I work with:** Claude Code, Custom Agents, MCP Servers, Cursor, AI-powered CI/CD
 
 ---
 
@@ -111,7 +135,7 @@ const damien = {
   </tr>
 </table>
 
-**Practices:** Clean Architecture • DDD • TDD • CI/CD
+**Practices:** Clean Architecture • DDD • TDD • CI/CD • AI-Augmented Development
 
 ---
 
@@ -144,7 +168,8 @@ const damien = {
 ## Let's Connect
 
 - 💼 Open to **freelance projects** and **technical collaborations**
-- 🎯 Interested in **developer tooling**, **SaaS products**, and **tech for good**
+- 🤖 Particularly interested in **AI-augmented development** and **developer tooling**
+- 🎯 Let's talk about **custom AI agents**, **automated workflows**, and **SaaS products**
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/damien-gouron) or [dgouron.fr](https://dgouron.fr)
 
 <p align="center">

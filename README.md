@@ -40,7 +40,7 @@ const damien = {
   ],
 
   openSource: [
-    "claude-review-automation - AI code reviews for GitLab/GitHub MRs",
+    "review-flow - AI code reviews for GitLab/GitHub MRs",
     "linux-port-killer - Because that port 3000 won't kill itself",
     "vscode-file-deps - Visualize your file dependencies"
   ],
@@ -74,7 +74,7 @@ At **Mentor Goal**, I'm pioneering AI-driven development workflows:
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| **[claude-review-automation](https://github.com/DGouron/claude-review-automation)** | Automated AI code reviews for GitLab & GitHub MRs/PRs with MCP, real-time dashboard, and multi-agent reviews | TypeScript, Fastify, MCP | ![Stars](https://img.shields.io/github/stars/DGouron/claude-review-automation?style=flat-square) |
+| **[review-flow](https://github.com/DGouron/review-flow)** | Automated AI code reviews for GitLab & GitHub MRs/PRs with MCP, real-time dashboard, and multi-agent reviews | TypeScript, Fastify, MCP | ![Stars](https://img.shields.io/github/stars/DGouron/review-flow?style=flat-square) |
 | **[linux-port-killer](https://github.com/DGouron/linux-port-killer)** | System tray app to find & kill processes on ports | Python, GTK | ![Stars](https://img.shields.io/github/stars/DGouron/linux-port-killer?style=flat-square) |
 | **[vscode-file-deps](https://github.com/DGouron/vscode-file-deps)** | VS Code extension to visualize file dependencies | TypeScript | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
 | **[flux](https://github.com/DGouron/flux)** | Exploring systems programming with Rust | Rust | ![Status](https://img.shields.io/badge/status-learning-yellow?style=flat-square) |

@@ -171,6 +171,12 @@ At **Mentor Goal**, I build AI workflows that give time back to PMs, leads and d
 
 ---
 
+## Writing
+
+- **[Spec-Driven Development: the practical guide](https://medium.com/@damien.gouron/spec-driven-development-le-guide-pratique-6772daff6078)** — Medium, March 2026 · *Double-loop SDD + TDD, task splitting techniques, common pitfalls, and how it all ties in with harness and context engineering.*
+
+---
+
 ## Let's Connect
 
 - 💼 Open to **CDI opportunities** (full remote) and **freelance projects**
